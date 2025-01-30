@@ -9,5 +9,5 @@
 - **Graphical Models**
 
 ### 📫 Contact
-- GitHub: [Joonho Kim](https://github.com/StatJuno)
-- Email: cikciki98@yonsei.ac.kr
+- **GitHub** [Joonho Kim](https://github.com/StatJuno)
+- **Email** cikciki98@yonsei.ac.kr
