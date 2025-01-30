@@ -11,3 +11,22 @@
 - 📫 How to reach me: cikciki98@yonsei.ac.kr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I'm **Joonho Kim**, a researcher interested in **Statistical Machine Learning**.
+
+### 🔬 Research Interest
+- **Statistical Machine Learning**
+- Bayesian Inference & MCMC
+- Regularization Methods
+- Gaussian Processes
+
+### 🛠️ Languages & Tools
+- **Languages**: R, Python
+- **Libraries**: NumPy, pandas, scikit-learn, ggplot2, dplyr
+
+### 📫 Contact
+- GitHub: [Joonho Kim](https://github.com/your-github-username)
+- Email: your.email@example.com
+
+---
+Let's collaborate and explore exciting research together! 🚀
