@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-** ✨ Welcome to my github! ✨ **
+✨**Welcome to my github!**✨
 
 
 - 🔭 I’m currently working on a variety of topics in the field of statistics and data science.
