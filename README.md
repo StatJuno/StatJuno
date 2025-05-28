@@ -2,8 +2,8 @@
 
 💬📫⚡🚀🔬 **Welcome to my github!** ✨🔭🌱👯🛠️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatJuno&layout=compact&theme=radical) 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cikciki98)](https://solved.ac/cikciki98) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatJuno&layout=compact&theme=radical) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cikciki98)](https://solved.ac/cikciki98)
 
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge) 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) 
